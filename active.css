@@ -1,0 +1,213 @@
+header{
+	display: flex;
+	justify-content: space-between;
+	position: fixed;
+	background-color: #E9EDF2;
+	width: 100%;
+	margin-top: -80px;
+	padding: 10px;
+}
+.un {
+	display: flex;
+	justify-content: space-between;
+	width: 30%;
+	align-items: center;
+
+}
+.deux {
+	display: flex;
+	justify-content: space-around;
+	width: 30%;
+	align-items: center;
+	padding-right: 30px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+#tabl {
+	display: flex;
+    text-align: center;
+	color: white;
+	width: 100%;
+	border: solid black 1px;
+	   
+}
+#tabl div{
+	
+	background-color: #3B414F;
+	border: solid black 1px;
+    padding: 60px 10px 60px 10px;
+    width: 100%;
+}
+#tabl div:hover{
+	background-color: #3E5D59;
+}
+#tabl img{
+	width:80px;
+}
+
+#h1{
+	text-align: center;
+	font-size: 50px;
+	padding: 50px;
+	font-family: cursive;
+}
+.text{
+	text-align: center;
+	padding: 50px;
+	font-size: 20px;
+
+}
+body{
+	margin-top: 80px;
+	background-color: white;
+}
+#img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.imgg {
+	background-image: url(https://activecollab.com/assets/images/deco-icons-hero@2x.png);
+
+}
+#bouton {
+	background-color: #2198E8;
+	padding: 13px;
+	margin-right: 450px;
+	margin-left: 450px;
+	border: solid black 1px;
+	margin-top: 70px;
+	border-radius: 5px;
+}
+#bouton a{
+	color: white;
+	font-size: 25px;
+}
+.text h6{
+	font-size: 26px;
+	color: #404243;
+	font-weight: normal;
+}
+.text p{
+	font-size: 15px;
+}
+.bl{
+	text-align: center;
+	padding: 50px;
+}
+.bl h3{
+	font-size: 40px;
+	color: #404243;
+}
+.bl p{
+	font-size: 30px;
+	color:#606365;
+}
+.blb{
+	display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: cursive;
+    line-height: 30px;
+    padding-bottom: 50px;
+
+}
+.blb img{
+	width: 250px;
+	height: 121px;
+	margin-top: 50px;
+}
+.blb h4{
+	font-size: 25px;
+	color: #404243;
+}
+.blb p{
+	font-size: 20px;
+	color: #4E5051;
+}
+.blb a{
+	background-color: #2198E8;
+	padding: 10px;
+	color:white;
+	border-radius: 5px;
+	border: solid 1px black;
+
+}
+.blbl{
+	padding-right: 50px;
+	border-right: solid 1px #9A9C9E;
+
+}
+.blblbl{
+	padding-left: 50px;
+}
+#trois{
+	background-color: white;
+}
+#b{
+	font-size: 15px;
+}
+.quatre{
+	background-color:#E9EDF2; 
+	text-align: center;
+}
+.quatre img{
+	width: 100%;
+}
+.quatre h5{
+	font-size: 40px;
+	color: #414243;
+}
+.quatre p{
+	font-size: 30px;
+	color:#6E7172;
+}
+.np{
+    background-color: #E9EDF2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+        border: 1px solid black;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+        padding-right: 40px;
+    padding-left: 40px;
+    width: 400px;
+    padding-top: 20px;
+}
+#a{
+	color: #C8CBCB;
+	border: 1px solid black;
+	background-color: white;
+	padding: 10px;
+
+	
+}
+.np h4{
+	margin-bottom: -10px;
+}
+.np h5{
+	background-color: #2198E8;
+	padding: 10px;
+	color:white;
+	border-radius: 5px;
+	border: solid 1px black;
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size: 15px;
+}
+.np h6{
+	text-align: center;
+	font-size: 15px;
+	margin-top: -10px;
+}
+.jsp{
+	background-color: white;
+	text-align: center;
+	padding: 30px;
+	font-size: 30px;
+}
